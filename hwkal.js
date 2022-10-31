@@ -20,20 +20,20 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/RisalTmy' // ubah aia
 global.ig = 'https://instagram.com/zall.ajh?igshid=YmMyMTA2M2Y=' // ubah aja
-global.email = 'scytzall01@gmail.com'
+global.email = 'zidannmaulaa@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Zidann🦕' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Zidann🦕' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Zidann🦕' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
 global.owner = ['62895330006855'] // ubah aja pake nomor lu
 global.premium = ['62895330006855'] // ubah aja pake nomor lu
-global.packname = 'ZALL MODS WA' // ubah aja
-global.ownerr = ['ZALL MODS WA'] // ubaha aja
-global.author = 'ZALL MODS WA' //ubah aja
-global.sessionName = './sessionye/zall' //Gausaj Di Ubah
+global.packname = 'Zidann🦕' // ubah aja
+global.ownerr = ['Zidann🦕'] // ubaha aja
+global.author = 'Zidann🦕' //ubah aja
+global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
 
